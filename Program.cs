@@ -10,6 +10,7 @@ namespace InventoryApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Lets do it...");
         }
     }
 }
